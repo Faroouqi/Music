@@ -1,0 +1,85 @@
+body{
+    background: linear-gradient(180deg, #404AA0 0%, rgba(30, 62, 87, 0.94) 100%);
+   
+}
+h2{
+font-family: Space Grotesk;
+font-size: 6.8em;
+font-weight: 650;
+line-height: 96px;
+
+}
+
+/*                                                                                 login page                                                                       */
+
+a:link {
+  text-decoration: none;
+}
+
+
+.login-img{
+    margin: auto ;
+    margin-bottom: 5%;
+    width: 55%;
+}
+
+.login-box {
+    width: 500px;
+    margin: 107px auto;
+}
+
+.form {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.login-footer{
+    text-align: center;
+}
+
+/*                                                                                   sign-up page                                                                */
+
+
+
+
+.col1{
+    background-color: aliceblue;
+}
+
+
+p{
+    color: #161616;
+}
+.sign{
+    position: absolute;
+    left: 277px;
+    top: 245px;
+}
+
+.sign-box {
+    width: 400px;
+    margin: 117px auto;
+}
+
+
+ .sign-phrase{
+position: absolute;
+left: 860px;
+top: 100px;
+
+color: #E4E4E4;
+
+} 
+
+.sign-author{
+position: absolute;
+left: 860px;
+top: 550px;
+
+color: #E4E4E4;
+
+} 
+#song{
+    margin-bottom: 10px;
+    padding-top: 25px;
+}
